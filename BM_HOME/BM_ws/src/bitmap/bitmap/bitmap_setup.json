@@ -1,0 +1,25 @@
+{
+    "bitmap_file": "/home/ros/mapp",
+    "scaling":{
+            "x": 3.883, 
+            "y": 4.023
+        },
+    "dock1": {
+        "x": 2.00, 
+        "y": 1.50,
+        "theta": 15,
+        "length": 22,
+        "width": 22
+    },
+    "dock2": {
+        "x": 1.00, 
+        "y": 2.50,
+        "theta": 90,
+        "length": 22,
+        "width": 22
+    },
+    "tail": {
+        "samples_limit": 100,
+        "visible": true
+    }
+}
